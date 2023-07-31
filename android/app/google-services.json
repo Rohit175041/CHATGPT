@@ -1,0 +1,114 @@
+{
+  "project_info": {
+    "project_number": "721500559508",
+    "firebase_url": "https://geotemp-a2491-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "project_id": "geotemp-a2491",
+    "storage_bucket": "geotemp-a2491.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:721500559508:android:245f23e1fdef210ccabc81",
+        "android_client_info": {
+          "package_name": "com.example.ambulance_tracker"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "721500559508-n3irejm8ho6ic9ehauhq0huhkmdormc1.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBKRN0W85Rm12b1B5iyJjCUWOWZXFA1kM0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "721500559508-n3irejm8ho6ic9ehauhq0huhkmdormc1.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:721500559508:android:342efcb440ce64a6cabc81",
+        "android_client_info": {
+          "package_name": "com.geotemp.geotemp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "721500559508-3mhtvtn1n59oojcbp0tee6n6hlvehjrh.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.geotemp.geotemp",
+            "certificate_hash": "109c7ae0d2dde0f1f2e3b6b1e70842351a5213b4"
+          }
+        },
+        {
+          "client_id": "721500559508-n3irejm8ho6ic9ehauhq0huhkmdormc1.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBKRN0W85Rm12b1B5iyJjCUWOWZXFA1kM0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "721500559508-n3irejm8ho6ic9ehauhq0huhkmdormc1.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:721500559508:android:98096f74034f5f14cabc81",
+        "android_client_info": {
+          "package_name": "com.openai203093.openai"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "721500559508-qiia8eppmnsipf91gu6goevphbe3m886.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.openai203093.openai",
+            "certificate_hash": "109c7ae0d2dde0f1f2e3b6b1e70842351a5213b4"
+          }
+        },
+        {
+          "client_id": "721500559508-n3irejm8ho6ic9ehauhq0huhkmdormc1.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBKRN0W85Rm12b1B5iyJjCUWOWZXFA1kM0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "721500559508-n3irejm8ho6ic9ehauhq0huhkmdormc1.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
